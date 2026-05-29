@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\bin\Debug\net8.0\Simulador_Invernadero.exe
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\bin\Debug\net8.0\Simulador_Invernadero.deps.json
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\bin\Debug\net8.0\Simulador_Invernadero.runtimeconfig.json
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\bin\Debug\net8.0\Simulador_Invernadero.dll
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\bin\Debug\net8.0\Simulador_Invernadero.pdb
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\Simulador_Invernadero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\Simulador_Invernadero.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\Simulador_Invernadero.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\Simulador_Invernadero.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\Simulador_Invernadero.dll
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\refint\Simulador_Invernadero.dll
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\Simulador_Invernadero.pdb
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\Simulador_Invernadero.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Simulador_Invernadero\Simulador_Invernadero\obj\Debug\net8.0\ref\Simulador_Invernadero.dll
