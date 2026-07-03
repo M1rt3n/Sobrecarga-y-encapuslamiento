@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\Simulador_Batería.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\Simulador_Batería.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\Simulador_Batería.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\Simulador_Batería.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\bin\Debug\net8.0\Simulador_Batería.exe
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\bin\Debug\net8.0\Simulador_Batería.deps.json
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\bin\Debug\net8.0\Simulador_Batería.runtimeconfig.json
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\bin\Debug\net8.0\Simulador_Batería.dll
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\bin\Debug\net8.0\Simulador_Batería.pdb
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\Simulador_Batería.dll
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\refint\Simulador_Batería.dll
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\Simulador_Batería.pdb
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\Simulador_Batería.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Simulador_Batería\Simulador_Batería\obj\Debug\net8.0\ref\Simulador_Batería.dll
